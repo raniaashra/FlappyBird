@@ -1,2 +1,1 @@
-# FlappyBird
-code for flappy Bird game 
+# CS304-Fall2022 Examples
